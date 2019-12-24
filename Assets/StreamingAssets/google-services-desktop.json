@@ -1,0 +1,37 @@
+{
+  "client": [
+    {
+      "services": {
+        "appinvite_service": {
+          "status": 1
+        }, 
+        "analytics_service": {
+          "status": 0
+        }
+      }, 
+      "oauth_client": [
+        {
+          "client_id": "638390575257-4ld8609rp5ll4sje76qh9tcel8cmcc86.apps.googleusercontent.com"
+        }
+      ], 
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuOPABmDbTpiy18EwrM8448leCD7AIipk"
+        }
+      ], 
+      "client_info": {
+        "mobilesdk_app_id": "1:638390575257:ios:9232273b3e1fba340f9808", 
+        "android_client_info": {
+          "package_name": "com.ygame.kiemtien3d"
+        }
+      }
+    }
+  ], 
+  "configuration_version": "1", 
+  "project_info": {
+    "storage_bucket": "ygame-corp-3e79e.appspot.com", 
+    "project_id": "ygame-corp-3e79e", 
+    "firebase_url": "https://ygame-corp-3e79e.firebaseio.com", 
+    "project_number": "638390575257"
+  }
+}

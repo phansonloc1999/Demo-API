@@ -1,0 +1,375 @@
+{
+  "project_info": {
+    "project_number": "638390575257",
+    "firebase_url": "https://ygame-corp-3e79e.firebaseio.com",
+    "project_id": "ygame-corp-3e79e",
+    "storage_bucket": "ygame-corp-3e79e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638390575257:android:a64bca3438473eb5",
+        "android_client_info": {
+          "package_name": "com.ygame.atao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638390575257-5e9hfh9udhchui0n1ldedrnupfuh9dqt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ygame.atao",
+            "certificate_hash": "e80a396583ea7958cd2906014357daaba5d7b135"
+          }
+        },
+        {
+          "client_id": "638390575257-k9tee2a605puib0t1qpnfqhjogf9t411.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ygame.atao",
+            "certificate_hash": "6afe56fe5a425dbfce5b4efeff4707e3e507aed6"
+          }
+        },
+        {
+          "client_id": "638390575257-82mgj3li7moon1obenpsdhdk8uqt539u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNGLEm2pKbKjTapg19r6TgIfxDOMNFh28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638390575257-aohhqh958eiste6p1f9i3hd9l2mk42n7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "638390575257-4ld8609rp5ll4sje76qh9tcel8cmcc86.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ygame.kiemtien3d"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638390575257:android:b71235550390bf8a",
+        "android_client_info": {
+          "package_name": "com.ygame.daiduongtaydu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638390575257-o510iug5cti538fr9mvvicrf7323nko8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ygame.daiduongtaydu",
+            "certificate_hash": "2a467784738f6e99eae91d97b2bb673937c36fc0"
+          }
+        },
+        {
+          "client_id": "638390575257-4dejmoso1qglg3nueoa4p1r5u1n75vue.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ygame.daiduongtaydu",
+            "certificate_hash": "48622e38f71509bb8732cdd9de76870583a8dc69"
+          }
+        },
+        {
+          "client_id": "638390575257-6cbohf7nba0vq9rkqovos6c30jblpbmk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ygame.daiduongtaydu",
+            "certificate_hash": "1d7862165a4b9617bcb7235b4cad0ac7a1cc7e0a"
+          }
+        },
+        {
+          "client_id": "638390575257-82mgj3li7moon1obenpsdhdk8uqt539u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNGLEm2pKbKjTapg19r6TgIfxDOMNFh28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638390575257-aohhqh958eiste6p1f9i3hd9l2mk42n7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "638390575257-4ld8609rp5ll4sje76qh9tcel8cmcc86.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ygame.kiemtien3d"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638390575257:android:2146c9caf499d61d",
+        "android_client_info": {
+          "package_name": "com.ygame.hero"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638390575257-6ndfo5nrun9s9p0rojqqi68qhh2hhp1a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ygame.hero",
+            "certificate_hash": "2245178b5a28ab4c5192a9dbb6e12740290ccaf1"
+          }
+        },
+        {
+          "client_id": "638390575257-7re8ddih9uj75a40ro2jcj5i7jcealn5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ygame.hero",
+            "certificate_hash": "cb675f364d9b79e10b1b6afcdc7f20cdd00a8399"
+          }
+        },
+        {
+          "client_id": "638390575257-82mgj3li7moon1obenpsdhdk8uqt539u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNGLEm2pKbKjTapg19r6TgIfxDOMNFh28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638390575257-aohhqh958eiste6p1f9i3hd9l2mk42n7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "638390575257-4ld8609rp5ll4sje76qh9tcel8cmcc86.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ygame.kiemtien3d"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638390575257:android:faa8c931399ad9940f9808",
+        "android_client_info": {
+          "package_name": "com.ygame.kiemtien3d"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638390575257-e2njh2a3ujfqkllnu4dpsifvvs23no71.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ygame.kiemtien3d",
+            "certificate_hash": "979f479bf3da31342cacffc595f5c0887f493fd1"
+          }
+        },
+        {
+          "client_id": "638390575257-nnb7nas24u2kt9kg3q1hs48gp93nfqlq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ygame.kiemtien3d",
+            "certificate_hash": "85b4d44d0dcb524975123c7161dc350e4c79c3c9"
+          }
+        },
+        {
+          "client_id": "638390575257-n4vptinn8cfjovhdln7invuoq81fd4o8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ygame.kiemtien3d",
+            "certificate_hash": "1d6f3da01785ab0d31c2fc8cef7b25cf336e56b6"
+          }
+        },
+        {
+          "client_id": "638390575257-82mgj3li7moon1obenpsdhdk8uqt539u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNGLEm2pKbKjTapg19r6TgIfxDOMNFh28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638390575257-aohhqh958eiste6p1f9i3hd9l2mk42n7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "638390575257-4ld8609rp5ll4sje76qh9tcel8cmcc86.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ygame.kiemtien3d"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638390575257:android:89b4b6b817415bea",
+        "android_client_info": {
+          "package_name": "com.ygame.phitien"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638390575257-vhmn93me7i3svpnn3cbcp2sh549ddvee.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ygame.phitien",
+            "certificate_hash": "5e1f69a1cd68bdfac5ae430421522b6ff1b78371"
+          }
+        },
+        {
+          "client_id": "638390575257-93quc9t2u3e59gqoqi7v4m0e3d67r9gi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ygame.phitien",
+            "certificate_hash": "4b5ab52842f2ecf73070f954a7cd155a855db464"
+          }
+        },
+        {
+          "client_id": "638390575257-82mgj3li7moon1obenpsdhdk8uqt539u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNGLEm2pKbKjTapg19r6TgIfxDOMNFh28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638390575257-aohhqh958eiste6p1f9i3hd9l2mk42n7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "638390575257-4ld8609rp5ll4sje76qh9tcel8cmcc86.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ygame.kiemtien3d"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638390575257:android:b1c1653f4d48ddbd",
+        "android_client_info": {
+          "package_name": "com.ygame.thienhangutuyet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638390575257-89voi5hng9iqmm5me8t1gkn5bj2aog22.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ygame.thienhangutuyet",
+            "certificate_hash": "b505d409c5df77d3e8a0d09ca084f957c39f4de4"
+          }
+        },
+        {
+          "client_id": "638390575257-gosfkmejcfbehrhmrdg7p2h9rbasvgvf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ygame.thienhangutuyet",
+            "certificate_hash": "bec637e6a42d2b8d216cbb0c0830d4b4cf8cb3d0"
+          }
+        },
+        {
+          "client_id": "638390575257-82mgj3li7moon1obenpsdhdk8uqt539u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNGLEm2pKbKjTapg19r6TgIfxDOMNFh28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638390575257-aohhqh958eiste6p1f9i3hd9l2mk42n7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "638390575257-4ld8609rp5ll4sje76qh9tcel8cmcc86.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ygame.kiemtien3d"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638390575257:android:72ce5246b16c99fc",
+        "android_client_info": {
+          "package_name": "com.ygame.ykit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638390575257-82mgj3li7moon1obenpsdhdk8uqt539u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNGLEm2pKbKjTapg19r6TgIfxDOMNFh28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638390575257-aohhqh958eiste6p1f9i3hd9l2mk42n7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "638390575257-4ld8609rp5ll4sje76qh9tcel8cmcc86.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ygame.kiemtien3d"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
